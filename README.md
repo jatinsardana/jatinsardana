@@ -31,4 +31,4 @@ I'm a passionate full-stack developer with a strong focus on building scalable a
 
 📫 How to reach me: jatinsardana2000@gmail.com
 😄 Pronouns: He/Him
-⚡ Fun fact: I once coded an app in 48 hours and learned more about problem-solving than expected. also Chess elo is 1400 🕹️
+⚡ Fun fact: I once coded an app in 48 hours and learned more about problem-solving than expected. also Chess elo is 1450 🕹️
